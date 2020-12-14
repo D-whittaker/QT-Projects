@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\robot.o
+./debug\gtest-all.o
+./debug\configuration.o
+./debug\log.o
+./debug\worm.o
+./debug\engine.o
+./debug\screen.o
+./debug\robotgame.o
+./debug\wormgame.o
+);

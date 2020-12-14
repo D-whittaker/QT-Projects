@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\robot.o
+./release\gtest-all.o
+./release\configuration.o
+./release\log.o
+./release\worm.o
+./release\engine.o
+./release\screen.o
+./release\robotgame.o
+./release\wormgame.o
+);
